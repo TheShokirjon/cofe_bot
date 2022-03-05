@@ -2,3 +2,10 @@ from . import errors
 from . import users
 from . import groups
 from . import channels
+from . import korzina
+from . import menu
+from . import miqdor
+from . import narxi
+from . import orqaga
+from . import shashlik
+from . import menuu
